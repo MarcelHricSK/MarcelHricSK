@@ -6,8 +6,8 @@ Full-stack developer
 - 🛒 Custom e-commerce solutions
 
 ### Tech stack
-## Back-end
+#### Back-end
 - Laravel
 
-## Front-end
+#### Front-end
 - React.js (Next.js) + Typescript
